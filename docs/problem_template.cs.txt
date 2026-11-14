@@ -1,0 +1,26 @@
+// Template soal — copy ke src/DSA.Problems/{Easy|Medium|Hard}/P0000_NamaSoal.cs
+// lalu buat test-nya di tests/DSA.Problems.Tests/{Easy|Medium|Hard}/P0000_NamaSoalTests.cs
+
+namespace DSA.Problems.Easy;
+
+/// <summary>
+/// Problem : 0. Nama Soal
+/// Link    : https://leetcode.com/problems/...
+/// Pattern : (Two Pointers / Sliding Window / Stack / DP / ...)
+/// Time    : O(?)
+/// Space   : O(?)
+/// Date    : yyyy-MM-dd
+///
+/// Ide:
+///   (jelaskan pendekatan dengan kata-kata sendiri)
+///
+/// Edge case:
+///   -
+/// </summary>
+public static class P0000_NamaSoal
+{
+    public static int Solve(int[] nums)
+    {
+        throw new NotImplementedException();
+    }
+}
